@@ -3,7 +3,7 @@
 
 ## Where to get the Frame???
 ### EU
-https://fpvcncdrone.com/product/jeno-35/
+https://fpvcncdrone.com/product/jeno-35/  
 https://www.lacameraembarquee.fr/we-are-fpv/17776-chassis-we-are-fpv-jeno-35.html
 
 
