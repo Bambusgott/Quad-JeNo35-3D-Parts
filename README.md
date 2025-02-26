@@ -1,7 +1,12 @@
 ![View](Images/IMG_20250211.jpg)
 
 # Quad-JeNo35-3D-Parts
-3D parts for the JeNo 3.5" Frame
+The Jone35 is a very stylish frame that I really like.
+Here are the 3d printed parts I designed for it:
+- FrontBumper.stl
+- ..
+
+Link to orginal Repo: [github/WE-are-FPV/JeNo3.5](https://github.com/WE-are-FPV/JeNo-3-3.5/)
 
 ## Where to get the Frame???
 ### EU
@@ -10,7 +15,7 @@ https://www.lacameraembarquee.fr/we-are-fpv/17776-chassis-we-are-fpv-jeno-35.htm
 
 
 ### Australia
-https://github.com/Bambusgott/Quad-JeNo35-3D-Parts.git
+https://cubefpv.com/product/fpv-frame-jeno-3-5-m3-v1-1/
 - Has 3D Parts as well
 
 ## Reviews
